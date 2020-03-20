@@ -5,6 +5,6 @@ class Shoe
     @brand= brand
   end
   def cobble
-    puts "The shoes have been repaired"
+    puts "Your shoe is as good as new!"
   end
 end
